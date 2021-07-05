@@ -1,0 +1,189 @@
+@import "font.css";
+
+body{
+	font-family: Roboto-Regular;
+	color: #4C4C4C;
+}
+.ren_bs1{
+	border-bottom: 50px solid #555;
+	border-left: 25px solid transparent;
+	border-right: 25px solid transparent;
+	height: 0;
+	width: 125px;
+}
+.ren_bs{
+	height: 0px;
+	width: 160px;
+	font-size: 14px;
+	color: #FFF;
+	position: absolute;
+	top: 10px;
+	left: -47px;
+	transform: rotate(315deg);
+	border-left: 47px solid transparent;
+	border-right: 47px solid transparent;
+	border-bottom: 45px solid #00B359;
+}
+.ren_ff_m{
+	font-family: Montserrat-Regular;
+}
+.ren_ff_m_bold{
+	font-family: Montserrat-Bold;
+}
+.ren_ff_m_light{
+	font-family: Montserrat-Light;
+}
+.ren_ff_r_light{
+	font-family: Roboto-Light;
+}
+.ren_ff_r_bold{
+	font-family: Roboto-Bold;
+}
+.ren_color_light_light_grey{
+	color: #D8D8D8;
+}
+.ren_color_light_light_grey:hover, .ren_color_light_light_grey:focus{
+	color: #EEE;
+}
+.ren_color_light_grey{
+	color: #8E8E8E;
+}
+.ren_color_grey{
+	color: #4C4C4C;
+}
+.ren_color_grey:hover, .ren_color_grey:focus{
+	color: #000;
+}
+.ren_color_green{
+	color: #00B359;
+}
+.ren_bg_color_green{
+	color: #FFF;
+	background-color: #00B359;
+}
+.ren_bg_color_blue{
+	color: #FFF;
+	background-color: #008FEE;
+}
+.ren_bg_color_light_blue{
+	color: #FFF;
+	background-color: #00A2F3;
+}
+.ren_bg_color_dark_blue{
+	color: #FFF;
+	background-color: #007FDE;
+}
+.ren_bg_color_grey{
+	color: #D8D8D8;
+	background-color: #303030;
+}
+.ren_bg_color_light_grey{
+	background-color: #F1F1F1;
+}
+.ren_bc_color_blue{
+	border-width: 2px!important;
+	border-color: #008FEE!important;
+}
+.ren_bc_color_grey{
+	border-width: 2px!important;
+	border-color: #4C4C4C!important;
+}
+.ren_bc_color_light_grey{
+	border-color: #F1F1F1!important;
+}
+.ren_bc_color_white{
+	border-width: 2px!important;
+	border-color: #FFF!important;
+}
+.ren_btn_blue{
+	color: #FFF;
+	background-color: #008FEE;
+	border-width: 2px!important;
+	border-color: #008FEE!important;
+}
+.ren_btn_blue:hover, .ren_btn_blue:focus{
+	color: #FFF;
+	background-color: #0AF;
+}
+.ren_btn_light_blue{
+	color: #FFF!important;
+	background-color: #00A2F3;
+}
+.ren_btn_light_blue:hover, .ren_btn_light_blue:focus{
+	color: #FFF!important;
+	background-color: #3BF;
+}
+.ren_btn_grey{
+	color: #4C4C4C;
+	background-color: #FFF;
+	border-width: 2px!important;
+	border-color: #4C4C4C!important;
+}
+.ren_btn_grey:hover, .ren_btn_grey:focus{
+	color: #000;
+	background-color: #F5F5F5;
+}
+.ren_btn_grey2{
+	background-color: #303030;
+}
+.ren_btn_grey2:hover, .ren_btn_grey2:focus{
+	background-color: #555;
+}
+.ren_span_price{
+	top: -15px;
+	position: relative;
+}
+.ren_span_sosmed{
+	top: 2px;
+	position: relative;
+}
+.ren_rounded{
+	border-radius: 2rem;
+}
+.ren_container{
+	padding-right: 10px;
+	padding-left: 10px;
+}
+.ren_bx{
+	border-top: 1px solid #DDD;
+	border-bottom: 1px solid #DDD;
+}
+@media (min-width: 576px) {
+
+}
+@media (min-width: 768px) {
+
+}
+@media (min-width: 992px) {
+	.ren_container{
+		padding-right: 5%;
+		padding-left: 5%;
+	}
+}
+@media (min-width: 1200px) {
+	.ren_container{
+		padding-right: 10%;
+		padding-left: 10%;
+	}
+}
+.navbar-light .navbar-nav .nav-link{
+	color: #4C4C4C;
+}
+.fs-10{
+	font-size: 10px;
+}
+.fs-12{
+	font-size: 12px;
+}
+.fs-14{
+	font-size: 14px;
+}
+.fs-16{
+	font-size: 16px;
+}
+.fs-20{
+	font-size: 20px;
+}
+.fs-36{
+	font-size: 36px;
+}

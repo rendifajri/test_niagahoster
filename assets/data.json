@@ -1,0 +1,32 @@
+{
+   "data":[
+      {
+         "name":"Bayi",
+         "old_price":19900,
+         "price":14900,
+		 "user_count":938,
+		 "text":"<b>0.5X RESOURCE POWER</b><br/><b>500 MB</b> Disk Space<br/><b>Unlimited</b> Bandwidth<br/><b>Unlimited</b> Databases<br/><b>1</b> Domain<br/><b>Instant</b> Backup<br/><b>Unlimited SSL</b> Gratis Selamanya"
+      },
+      {
+         "name":"Pelajar",
+         "old_price":46900,
+         "price":23450,
+		 "user_count":4168,
+		 "text":"<b>1X RESOURCE POWER</b><br/><b>Unlimited</b> Disk Space<br/><b>Unlimited</b> Bandwidth<br/><b>Unlimited</b> POP3 Email<br/><b>Unlimited</b> Databases<br/><b>10</b> Addon Domains<br/><b>Instant</b> Backup<br/><b>Domain Gratis</b> Selamanya<br/><b>Unlimited SSL</b> Gratis Selamanya"
+      },
+      {
+         "name":"Personal",
+         "old_price":58900,
+         "price":38900,
+		 "user_count":10017,
+		 "text":"<b>2X RESOURCE POWER</b><br/><b>Unlimited</b> Disk Space<br/><b>Unlimited</b> Bandwidth<br/><b>Unlimited</b> POP3 Email<br/><b>Unlimited</b> Databases<br/><b>Unlimited</b> Addon Domains<br/><b>Instant</b> Backup<br/><b>Domain Gratis</b> Selamanya<br/><b>Unlimited SSL</b> Gratis Selamanya<br/><b>Private</b> Name Server<br/><b>SpamAssasin</b> Mail Protection"
+      },
+      {
+         "name":"Bisnis",
+         "old_price":109900,
+         "price":65900,
+		 "user_count":3552,
+		 "text":"<b>3X RESOURCE POWER</b><br/><b>Unlimited</b> Disk Space<br/><b>Unlimited</b> Bandwidth<br/><b>Unlimited</b> POP3 Email<br/><b>Unlimited</b> Databases<br/><b>Unlimited</b> Addon Domains<br/><b>Magic Auto</b> Backup & Restore<br/><b>Domain Gratis</b> Selamanya<br/><b>Unlimited SSL</b> Gratis Selamanya<br/><b>Private</b> Name Server<br/><b>Prioritas</b> Layanan Support<br/><span class=\"fa fa-star text-primary\"></span><span class=\"fa fa-star text-primary\"></span><span class=\"fa fa-star text-primary\"></span><span class=\"fa fa-star text-primary\"></span><span class=\"fa fa-star text-primary\"></span><br/><b>SpamExpert</b> Pro Mail Protection"
+      }
+   ]
+}
